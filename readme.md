@@ -2,3 +2,4 @@ line01
 line02
 line03
 change_from_clone_b1
+change_in_b1
